@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "HUST Auto Fill - Quy chế 2026.1",
+  "version": "1.1.0",
+  "description": "Tự chọn đáp án cho bài kiểm tra Quy chế kỳ 2026.1 trên Microsoft Forms.",
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://forms.office.com/*",
+    "https://forms.cloud.microsoft/*"
+  ],
+  "action": {
+    "default_title": "Điền đáp án Quy chế",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://forms.office.com/*",
+        "https://forms.cloud.microsoft/*"
+      ],
+      "js": [
+        "data/answer-key.js",
+        "scripts/content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
