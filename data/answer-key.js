@@ -62,7 +62,7 @@ const ANSWER_KEY = {
   "Theo hướng dẫn Quản lý tài chính cá nhân trong Sổ tay sinh viên, tỷ lệ 20% thu nhập hàng tháng được khuyên dành cho mục đích nào?": "Dành cho tiết kiệm",
   "Điều kiện bắt buộc kể từ học kỳ 3 trở đi đối với sinh viên chưa học hoặc chưa được miễn các học phần ngoại ngữ cơ bản (NNCB) để được đăng ký môn khác là gì?": "Bắt buộc phải đăng ký học song hành các học phần NNCB tương ứng ở mỗi kỳ",
   "Học phí học phần \"Giáo dục Quốc phòng - An ninh\" được tính toán dựa trên đơn vị nào?": "Tính theo số TCHP quy đổi của các học phần GDQP-AN",
-  "Địa điểm tiếp nhận hồ sơ Chế độ chính sách và phát Giấy xác nhận ưu đãi giáo dục cho sinh viên là phòng nào?": "Phòng 101 - Nhà B8",
+  "Địa điểm tiếp nhận hồ sơ Chế độ chính sách và phát Giấy xác nhận ưu đãi giáo dục cho sinh viên là phòng nào?": "Phòng 102 - Nhà C1",
   "Mức học phí áp dụng đối với sinh viên nước ngoài tự chi trả kinh phí học tập được tính bằng bao nhiêu lần so với quy định chuẩn?": "1,5 lần",
   "Điều kiện học lực để sinh viên hết năm thứ nhất được xem xét chuyển sang học một chương trình đào tạo khác là gì?": "CPA ≥ 2,5 (từ loại khá trở lên) và không bị cảnh báo học tập",
   "Mức điểm trung bình tích lũy (CPA) tối thiểu sinh viên cần đạt khi xét công nhận tốt nghiệp đại học là bao nhiêu?": "CPA ≥ 2,00",
