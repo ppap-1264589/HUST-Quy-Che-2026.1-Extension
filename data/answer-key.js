@@ -122,7 +122,7 @@ const ANSWER_KEY = {
   "Kết quả xét duyệt Học bổng KKHT được công bố chậm nhất vào tuần học thứ mấy của học kỳ cấp học bổng?": "Chậm nhất vào tuần học thứ 10",
   "Nếu sinh viên nộp đơn đề nghị rút học phần trong khoảng 7 tuần đầu của học kỳ chính và được giải quyết, mức học phí phải đóng là bao nhiêu?": "Phải đóng 50% học phí của học phần đó",
   "Quy định về chương trình ngoại ngữ cơ bản K71 KHÔNG áp dụng cho đối tượng sinh viên nào?": "Sinh viên ngành Ngôn ngữ Anh",
-  "Văn phòng làm việc của Hội Sinh viên Đại học Bách khoa Hà Nội đặt tại vị trí nào?": "Phòng 106 - Nhà D4",
+  "Văn phòng làm việc của Hội Sinh viên Đại học Bách khoa Hà Nội đặt tại vị trí nào?": "Phòng 101 - Tòa nhà B8",
   "Sinh viên được phép đăng ký học chương trình đào tạo thứ hai (bằng kép) sớm nhất khi nào?": "Khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất",
   "Sinh viên có kết quả học tập và rèn luyện của học kỳ trước đó đạt mức Giỏi (GPA ≥ 3.2, ĐRL ≥ 80) được cộng bao nhiêu điểm rèn luyện?": "Cộng 4 điểm",
   "Tân sinh viên đạt điểm bài kiểm tra HUST English Placement Test từ 475 đến dưới 545 điểm được xếp vào Nhóm trình độ nào?": "Nhóm 5",
